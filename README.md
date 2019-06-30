@@ -1,3 +1,3 @@
-# Hackcouver Website
+# 9HackForGood Website
 
-Website for Hackcouver.
+Website for 9HackForGood.
